@@ -1,0 +1,6 @@
+[submodule "malinoskj2.dev-frontend"]
+	path = malinoskj2.dev-frontend
+	url = https://github.com/malinoskj2/malinoskj2.dev-frontend
+[submodule "malinoskj2.dev-rss"]
+	path = malinoskj2.dev-rss
+	url = https://github.com/malinoskj2/malinoskj2.dev-rss
